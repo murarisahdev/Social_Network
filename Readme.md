@@ -13,35 +13,15 @@ Social Network App is built with Python-DRF.
 2. Navigate to the project directory:
 
     ```bash
-    cd social_network
+    cd Social_Network
     ```
 
-3. Create a virtual environment (optional but recommended):
-
-    ```bash
-    python3 -m venv venv
-    ```
-
-4. Activate the virtual environment:
-
-    - On Windows:
-
-        ```bash
-        venv\Scripts\activate
-        ```
-
-    - On macOS and Linux:
-
-        ```bash
-        source venv/bin/activate
-        ```
-
-5. Run the application:
+3. Run the application:
 
     ```bash
     docker-compose up --build
     ```
-6. Stop application:
+4. Stop application:
 
     ```bash
     docker-compose down
